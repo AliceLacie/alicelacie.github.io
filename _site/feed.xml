@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>ursobad</title>
   <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
-  <updated>2026-01-19T11:00:14+08:00</updated>
+  <updated>2026-01-19T11:09:41+08:00</updated>
   <author>
     <name>ursobad</name>
     <uri>http://localhost:4000/</uri>
@@ -33,6 +33,8 @@
     </author>
 
   
+    
+    <category term="test" />
     
   
 

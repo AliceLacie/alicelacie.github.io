@@ -3,8 +3,8 @@
   {
     "title": "test",
     "url": "/posts/test/",
-    "categories": "",
-    "tags": "",
+    "categories": "test",
+    "tags": "test",
     "date": "2026-01-19 02:53:00 +0800",
     "content": "test"
   }
